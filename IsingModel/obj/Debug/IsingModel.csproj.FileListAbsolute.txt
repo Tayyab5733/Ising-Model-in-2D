@@ -1,0 +1,10 @@
+D:\Users\Tayyab Ali\Desktop\c\CPS_lab2\Finals\IsingModel\IsingModel\obj\Debug\IsingModel.csprojAssemblyReference.cache
+D:\Users\Tayyab Ali\Desktop\c\CPS_lab2\Finals\IsingModel\IsingModel\obj\Debug\IsingModel.Form1.resources
+D:\Users\Tayyab Ali\Desktop\c\CPS_lab2\Finals\IsingModel\IsingModel\obj\Debug\IsingModel.Properties.Resources.resources
+D:\Users\Tayyab Ali\Desktop\c\CPS_lab2\Finals\IsingModel\IsingModel\obj\Debug\IsingModel.csproj.GenerateResource.cache
+D:\Users\Tayyab Ali\Desktop\c\CPS_lab2\Finals\IsingModel\IsingModel\obj\Debug\IsingModel.csproj.CoreCompileInputs.cache
+D:\Users\Tayyab Ali\Desktop\c\CPS_lab2\Finals\IsingModel\IsingModel\bin\Debug\IsingModel.exe.config
+D:\Users\Tayyab Ali\Desktop\c\CPS_lab2\Finals\IsingModel\IsingModel\bin\Debug\IsingModel.exe
+D:\Users\Tayyab Ali\Desktop\c\CPS_lab2\Finals\IsingModel\IsingModel\bin\Debug\IsingModel.pdb
+D:\Users\Tayyab Ali\Desktop\c\CPS_lab2\Finals\IsingModel\IsingModel\obj\Debug\IsingModel.exe
+D:\Users\Tayyab Ali\Desktop\c\CPS_lab2\Finals\IsingModel\IsingModel\obj\Debug\IsingModel.pdb
